@@ -1,0 +1,190 @@
+{
+  "name": "Softique Commerce",
+  "initials": "SC",
+  "tagline": "We create high-performance Shopify experiences.",
+  "shortBio": "High-performance Shopify solutions: theme development, data migration, Shopify Plus, custom apps, integrations, and headless commerce.",
+  "businessDescription": "Softique Commerce delivers high-performance Shopify solutions, including theme development, data migration, Shopify Plus, custom apps, integrations, and headless commerce—helping brands scale, optimize, and grow faster.",
+  "partner": {
+    "tierLabel": "Select Partner",
+    "description": "Partners are tiered based on multiple factors, including their history of experience and proven success on Shopify.",
+    "badgeImageSrc": "/shopify-select-partner-badge/Badge%20Select%20wht%20transpLarge.png",
+    "badgeAlt": "Shopify Select Partner badge"
+  },
+  "primaryCta": {
+    "label": "Book a call",
+    "href": "#contact"
+  },
+  "secondaryCta": {
+    "label": "See services",
+    "href": "#services"
+  },
+  "ctaStrip": {
+    "title": "Ready to scale your Shopify store?",
+    "subtitle": "Share your goals and we’ll reply with a clear plan, timeline, and next steps.",
+    "primaryLabel": "Get a quote",
+    "primaryHref": "#contact"
+  },
+  "contact": {
+    "email": "hello@softiqueit.com",
+    "phone": "",
+    "location": ""
+  },
+  "links": {
+    "website": "",
+    "linkedIn": "",
+    "shopifyDirectory": ""
+  },
+  "socialLinks": [
+    { "label": "LinkedIn", "href": "" },
+    { "label": "Shopify directory", "href": "" }
+  ],
+  "trustedBy": ["Ion8", "Any Sharp", "Takdhum"],
+  "industries": ["Electronics", "Food and drink", "Jewelry and accessories", "Toys and games"],
+  "featuredWork": [
+    {
+      "name": "Ion8",
+      "url": "https://www.ion8.co.uk/",
+      "summary": "Shopify work focused on a smooth buying experience, storefront polish, and scalable merchandising.",
+      "tags": ["Storefront", "Performance", "UX"]
+    },
+    {
+      "name": "Any Sharp",
+      "url": "https://anysharp.com",
+      "summary": "Ecommerce experience improvements and Shopify enhancements for growth.",
+      "tags": ["Store build", "Theme", "CRO"]
+    },
+    {
+      "name": "Takdhum",
+      "url": "https://takdhumstore.com/",
+      "summary": "Shopify storefront setup and theme customization for a product-led brand.",
+      "tags": ["Theme customization", "Store setup"]
+    }
+  ],
+  "stats": [
+    { "label": "Partner tier", "value": "Select Partner" },
+    { "label": "Capabilities", "value": "Themes • Apps • Headless" },
+    { "label": "Plus-ready", "value": "Shopify Plus" }
+  ],
+  "outcomes": [
+    { "value": "High", "label": "performance", "detail": "Speed-focused storefronts and optimization." },
+    { "value": "Clean", "label": "delivery", "detail": "Clear scope, milestones, and reliable QA." },
+    { "value": "Scale", "label": "ready", "detail": "Shopify Plus and headless-ready builds." },
+    { "value": "Growth", "label": "focused", "detail": "UX improvements that help conversion and retention." }
+  ],
+  "services": [
+    {
+      "title": "Store build or redesign",
+      "description": "High-performance Shopify storefronts with clean UX and maintainable theme architecture.",
+      "bullets": [
+        "New store builds and redesigns",
+        "Theme customization and section development",
+        "Performance, Core Web Vitals, and SEO-ready structure"
+      ]
+    },
+    {
+      "title": "Store migration & data migration",
+      "description": "Safe migrations with minimal downtime and clean data for a smooth relaunch.",
+      "bullets": [
+        "Platform migrations to Shopify",
+        "Product/customer/order data migration",
+        "Redirects and SEO considerations"
+      ]
+    },
+    {
+      "title": "Custom apps & integrations",
+      "description": "Shopify apps, integrations, and automation to streamline operations and unlock new features.",
+      "bullets": ["Embedded admin apps", "3rd-party integrations and data sync", "Custom workflows and automation"]
+    },
+    {
+      "title": "Shopify Plus",
+      "description": "Plus-ready implementation support for teams that need scale and reliability.",
+      "bullets": [
+        "Launch support and enhancements",
+        "Performance + stability focus",
+        "Enterprise-friendly workflows"
+      ]
+    },
+    {
+      "title": "POS setup and migration",
+      "description": "Retail POS setup, migration support, and store operations enablement.",
+      "bullets": ["POS setup", "Migration support", "Operational guidance"]
+    },
+    {
+      "title": "Headless commerce",
+      "description": "Modern storefronts for teams that need flexibility and speed.",
+      "bullets": ["Headless storefront builds", "API integrations", "Performance-first architecture"]
+    }
+  ],
+  "caseStudies": [
+    {
+      "title": "High-converting fashion storefront",
+      "category": "Theme",
+      "summary": "A clean, mobile-first theme rebuild with faster performance and better merchandising.",
+      "highlights": ["Reusable sections", "Improved navigation", "Performance uplift"]
+    },
+    {
+      "title": "Operations automation app",
+      "category": "App",
+      "summary": "An embedded app that streamlined order workflows and reduced manual support work.",
+      "highlights": ["Admin UI", "Integrations", "Reliable background jobs"]
+    },
+    {
+      "title": "Speed & SEO optimization sprint",
+      "category": "Optimization",
+      "summary": "A targeted improvement pass focused on Core Web Vitals, images, and theme code quality.",
+      "highlights": ["Asset optimization", "Cleaner Liquid", "Better UX"]
+    }
+  ],
+  "engagementModels": [
+    {
+      "title": "Fixed-scope project",
+      "description": "Best for a theme build, a feature set, or a specific optimization sprint.",
+      "bullets": ["Clear scope and milestones", "Upfront estimate", "Launch-ready delivery"]
+    },
+    {
+      "title": "Monthly retainer",
+      "description": "Best for continuous improvements, experiments, and ongoing Shopify support.",
+      "bullets": ["Dedicated capacity", "Prioritized backlog", "Fast turnaround on tasks"]
+    },
+    {
+      "title": "App build (MVP → v1)",
+      "description": "Best for turning a workflow into an embedded Shopify app with a stable roadmap.",
+      "bullets": ["Discovery + architecture", "Iterative delivery", "Deployment & monitoring"]
+    }
+  ],
+  "testimonials": [],
+  "faqs": [
+    {
+      "q": "Do you work with existing Shopify themes?",
+      "a": "Yes. We can customize your current theme, build new sections, fix bugs, and improve performance without disrupting operations."
+    },
+    {
+      "q": "Can you build Shopify apps?",
+      "a": "Yes. We build embedded admin apps and custom integrations. Tell us your workflow and we’ll propose the simplest reliable solution."
+    },
+    {
+      "q": "Do you handle Shopify Plus projects?",
+      "a": "Yes. We support Shopify Plus builds and improvements with a performance and reliability focus."
+    },
+    {
+      "q": "Do you do migrations?",
+      "a": "Yes. We handle store and data migrations to Shopify with careful planning, QA, and SEO considerations."
+    },
+    {
+      "q": "How do we start?",
+      "a": "Send a short message with your store link and goals. We’ll respond with recommended next steps, timeline, and an estimate."
+    }
+  ],
+  "techStack": [
+    "Shopify Liquid",
+    "Shopify App APIs",
+    "Shopify Plus",
+    "Headless commerce",
+    "React",
+    "TypeScript",
+    "Node.js",
+    "GraphQL",
+    "Polaris (Shopify UI)"
+  ]
+}
+

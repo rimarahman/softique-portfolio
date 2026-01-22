@@ -1,6 +1,6 @@
-# Softique IT — React Portfolio
+# Softique Commerce — React Portfolio
 
-A modern, responsive, one-page portfolio site for **Softique IT** (Shopify theme & app development), built with:
+A modern, responsive, one-page portfolio site for **Softique Commerce** (Shopify solutions), built with:
 
 - React + TypeScript + Vite
 - Tailwind CSS
@@ -18,9 +18,9 @@ npm run dev
 
 Edit:
 
-- `src/content/companyProfile.ts`
+- `src/content/companyProfile.json`
 
-That file controls:
+That JSON controls:
 
 - Company name, tagline, bio
 - Services, case studies, testimonials
